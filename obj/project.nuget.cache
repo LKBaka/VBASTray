@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9nK0WFjAYzFvwAePL/4ZU70Vibe2GP8yJcWKzzkpQMjD9E+ViSNT7njwwJ5SwDtpx8KBJjYbVvHyXK20hFSRw==",
+  "success": true,
+  "projectFilePath": "D:\\soft\\VBASTray\\VBASTray.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linker\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.1.3\\microsoft.toolkit.uwp.notifications.7.1.3.nupkg.sha512",
+    "C:\\Users\\Linker\\.nuget\\packages\\qihoo.cloudengine\\1.0.1\\qihoo.cloudengine.1.0.1.nupkg.sha512",
+    "C:\\Users\\Linker\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\Linker\\.nuget\\packages\\system.serviceprocess.servicecontroller\\6.0.0\\system.serviceprocess.servicecontroller.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
