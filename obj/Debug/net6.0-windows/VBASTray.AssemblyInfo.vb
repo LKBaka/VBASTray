@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("VBASTray"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd9fed90ee35e342506ca64531931b9e4406c48"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("VBASTray"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("VBASTray"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
